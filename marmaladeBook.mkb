@@ -7,4 +7,11 @@ files
 	main.cpp
 # Add new source files here
 }
+subprojects
+{
+	Iw2D
+	IwGx
+}
+
+
 
